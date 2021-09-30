@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramachandra2002
+- 👋 Hi, I’m Ramachandra
 - 👀 I’m interested in Circuit Design
 - 🌱 I’m currently learning RTL coding
 
